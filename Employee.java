@@ -1,5 +1,5 @@
-cimport java.util.Scanner;
-Class Employee {
+import java.util.Scanner;
+class Employee {
     int id;
     String name;
     float sal;
